@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iW5Ck0SyhMGlz5kGiQXvHTUFbb7VmtZPNvJDxA6Fh0OPYPboo0RYTBEUuL6axB3O/Q+VDToFb3xhEAwmh/a6tw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\piotr\\Programowanie\\Nauka C#\\Nauka programowania.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\piotr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\piotr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
