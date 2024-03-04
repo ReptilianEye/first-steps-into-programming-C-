@@ -54,11 +54,6 @@ namespace nauka_programowania
             ZnajdywanieLiczbyNieZCiaguFibonacciego zlnzcf = new ZnajdywanieLiczbyNieZCiaguFibonacciego();
             List<long> listaPierwszych = new List<long>();
             Zadanie2Diament z2d = new Zadanie2Diament();
-            Solution sol = new Solution();
-            int[] array1 = new int[] { 5, 4, -3, 2, 0, 1, -1, 0, 2, -3, 4, -5 };
-            int res = sol.solution(array1);
-            Console.WriteLine(res);
-            Console.ReadLine();
         }
     }
 }
